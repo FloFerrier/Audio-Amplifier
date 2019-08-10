@@ -43,7 +43,7 @@ For making a stereo HIFI, you need two kits with two different transformers.
 
 >Make sure to put a 1A T (slow-blow) fuse in series with the primary winding of the transformer.`
 ## Documentation
-* [Kit Velleman K8060] : https://github.com/FloFerrier/Audio-Amplifier/blob/master/Kit_Velleman_K8060.pdf
+* [Kit Velleman K8060] (https://github.com/FloFerrier/Audio-Amplifier/blob/master/Kit_Velleman_K8060.pdf)
 
 ## License
-[MIT - License] : https://github.com/FloFerrier/Audio-Amplifier/blob/master/LICENSE
+[MIT - License] (https://github.com/FloFerrier/Audio-Amplifier/blob/master/LICENSE)
